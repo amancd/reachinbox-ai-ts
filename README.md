@@ -11,7 +11,7 @@ and finally npm run dev
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/abeb33df-2e63-4dcb-9898-41866a3b1baa">
 
-<img width="946" alt="image" src="https://github.com/user-attachments/assets/07d322f1-423d-4ed1-bed2-ff42355dffd3">
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/249ee2d5-be4d-440a-9b40-8dc7bb768ada">
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/79364b4f-9d98-479b-abbc-fc8dec0ada9d">
 
