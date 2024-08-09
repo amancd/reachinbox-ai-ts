@@ -13,8 +13,7 @@ and finally npm run dev
 
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/249ee2d5-be4d-440a-9b40-8dc7bb768ada">
 
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/79364b4f-9d98-479b-abbc-fc8dec0ada9d">
-
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/48ab6813-eb96-4fd6-bf82-244267c62aa3">
 
 
 
