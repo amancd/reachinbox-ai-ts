@@ -7,8 +7,6 @@ Make Sure To Install React And Node
 Then after opening the directory npm install
 and finally npm run dev
 
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/a096327b-dd30-425a-96f6-e734325337a7">
-
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/f3dbc3df-6242-4c0d-a673-cd314dc8d54b">
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/abeb33df-2e63-4dcb-9898-41866a3b1baa">
