@@ -12,6 +12,8 @@ Dark Mode, Light Mode
 Google Authentication
 TypeScript
 
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/2e6b48b4-d05e-4a7b-a70a-d86bce54a459">
+
 Screenshot 1
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/85930edc-dd64-4836-8a81-f0cea433f149">
 Screenshot 2
