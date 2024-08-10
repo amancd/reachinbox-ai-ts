@@ -62,6 +62,7 @@
   
   .sign-text{
     color: #C1C2C5;
+    cursor: pointer;
   }
 
   .create{
